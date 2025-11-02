@@ -1,0 +1,17 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+_ReSharper*/
+*.DotSettings.user
+packages/
+*.nupkg
+.nuget/
+*.mdf
+*.ldf
+publish/
+.idea/
+.vscode/
+Thumbs.db
