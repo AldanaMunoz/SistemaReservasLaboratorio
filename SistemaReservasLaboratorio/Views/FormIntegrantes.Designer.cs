@@ -36,13 +36,13 @@
             // 
             this.lblInfo.Location = new System.Drawing.Point(95, 74);
             this.lblInfo.Name = "lblInfo";
-            this.lblInfo.Size = new System.Drawing.Size(457, 201);
+            this.lblInfo.Size = new System.Drawing.Size(555, 269);
             this.lblInfo.TabIndex = 0;
             this.lblInfo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnCerrar
             // 
-            this.btnCerrar.Location = new System.Drawing.Point(277, 346);
+            this.btnCerrar.Location = new System.Drawing.Point(314, 361);
             this.btnCerrar.Name = "btnCerrar";
             this.btnCerrar.Size = new System.Drawing.Size(137, 34);
             this.btnCerrar.TabIndex = 1;
